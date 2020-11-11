@@ -5,7 +5,6 @@
 DMGREPORT_defaultFilter = 1 --export: 1 for all,2 for avionics and weapons,3 for avionics only, 4 for weapons only
 DMGREPORT_defaultView = 1 --export: 1 for top,2 for side and 3 for front
 DMGREPORT_dmg_priority = 2 --export: Show damaged components (3) Below 100%, (2) Below 75%, (1) Below 50%
-DMGREPORT_label_position = 0 --export: move the view label left or right (useful for centering)
 DMGREPORT_dmg_refresh_rate = 2 --export: Damage report refresh rate every x seconds
 DMGREPORT_size = 1000 --export: Display size
 DMGREPORT_point_size = 10 --export: Points size
