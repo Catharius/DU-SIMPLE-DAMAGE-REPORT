@@ -8,7 +8,7 @@ Hud version available [here](https://github.com/Catharius/DU-MINIMALIST-HUD)
 
 ## How to use this script
 
-Click on "damage_report_lua.json", copy paste the code and paste it into a programming board then :
+Click on "damage_report_lua.json", copy the code and paste it into a programming board then :
 * Link the board to your core
 * Link up to 4 screens (It is not mandatory, the script will adapt if you have less than 4 screens)
   * Screen 1 will show top view
