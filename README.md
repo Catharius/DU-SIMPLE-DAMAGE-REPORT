@@ -2,7 +2,7 @@
 
 A damage report system script for "Dual Universe". Please note that this is a work in progress (It may not work properly with XS cores).
 
-![image](https://raw.githubusercontent.com/Catharius/DU-SIMPLE-DAMAGE-REPORT/main/damage.png)
+![image](https://raw.githubusercontent.com/Catharius/DU-SIMPLE-DAMAGE-REPORT/main/example.jpg)
 
 Hud version available [here](https://github.com/Catharius/DU-MINIMALIST-HUD)
 
