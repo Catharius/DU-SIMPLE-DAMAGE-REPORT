@@ -156,8 +156,8 @@ function DamageModule.new()
             x=(x+core_offset)
             y=(y+core_offset)
             z=(z+core_offset)
-            if self.min_x > y then
-                self.min_x = y
+            if self.min_x > x then
+                self.min_x = x
             end    
             if self.min_y > y then
                 self.min_y = y
