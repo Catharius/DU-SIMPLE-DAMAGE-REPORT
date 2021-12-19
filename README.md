@@ -1,5 +1,7 @@
 # DU-SIMPLE_DAMAGE_REPORT
 
+WARNING : This script is now deprecated and will not work with the current version of Dual Universe.
+
 A damage report system script for "Dual Universe". Please note that this is a work in progress (It may not work properly with XS cores).
 
 ![image](https://raw.githubusercontent.com/Catharius/DU-SIMPLE-DAMAGE-REPORT/main/example.jpg)
