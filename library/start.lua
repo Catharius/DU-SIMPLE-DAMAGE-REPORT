@@ -126,19 +126,9 @@ function DamageModule.new()
     if core ~= nil then    
         -- Getting the core offset
         -- XS CORE
-        local core_offset = -5
+        local core_offset = 0
         local core_hp = core.getElementHitPointsById(core.getId())
-        if core_hp > 10000 then
-            -- L CORE
-            core_offset = -128
-        elseif core_hp > 1000 then
-            -- M CORE
-            core_offset = -64
-        elseif core_hp > 150 then
-            -- S CORE
-            core_offset = -32
-        end
-
+        
         self.core_offset=core_offset   
         self.max_x= -999999999
         self.min_x= 999999999
